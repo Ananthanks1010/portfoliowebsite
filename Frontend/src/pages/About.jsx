@@ -23,13 +23,12 @@ function About() {
             {/* left text section */}
             <div className='flex items-start justify-start w-[50%] lg:w-[90%] h-[50%] font-moglandemo font-bold text-white/40 lg:text-xl'>
              <ReactTyped strings={[
-   "Hi, I’m Deva Prasad, a final-year B.Tech student at College of Engineering Poonjar.  \
+   "Hi, I’m Ananthakrishnan k s, a final-year B.Tech student at College of Engineering Poonjar.  \
 I am passionate about building efficient, scalable, and user-friendly software solutions.",
 
-  "I actively contribute to tech communities and hold leadership roles, including Chairman of IEEE SB CE Poonjar,  \
-Student Lead of FOSS Club CEP, and Webmaster of my college.",
+  "I actively contribute to tech communities and hold leadership roles, including tech team FOSS club cep",
 
-  "I have hands-on experience in full-stack Python projects and specialize in ReactJS, TailwindCSS,  \
+  "I have hands-on experience in Python projects and specialize in ReactJS, TailwindCSS,  \
 building clean, responsive, and maintainable web applications.",
 
   "Driven by curiosity, I continuously explore new technologies and frameworks.  \

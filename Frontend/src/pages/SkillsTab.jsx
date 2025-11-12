@@ -8,7 +8,6 @@ export const SkillsTab = () => {
   const tools = [
     { name: "VS Code", level: 90 },
     { name: "Git & GitHub", level: 85 },
-    { name: "Postman", level: 80 },
     { name: "Figma", level: 75 },
     { name: "Web Hosting Platforms", level: 60 },
   ];
@@ -16,7 +15,6 @@ export const SkillsTab = () => {
   const frameworks = [
     { name: "React.js", level: 90 },
     { name: "TailwindCSS", level: 85 },
-    { name: "Django", level: 65 },
     { name: "HTML5", level: 80 },
     { name: "CSS5", level: 70 },
     { name: "PostgreSQL & MySQL", level: 60 },
